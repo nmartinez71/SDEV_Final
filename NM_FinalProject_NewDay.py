@@ -1,5 +1,4 @@
 from breezypythongui import EasyFrame
-import images as images
 import tkinter as tk
 
 class Scheduler(EasyFrame):
